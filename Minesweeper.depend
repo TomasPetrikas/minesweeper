@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1558189525 source:c:\users\tomas petrikas\desktop\programs\objektinis c++\projektas\main.cpp
+	"Minesweeper.h"
+	<iostream>
+	<string>
+
+1558172469 source:c:\users\tomas petrikas\desktop\programs\objektinis c++\projektas\minesweeper.cpp
+	"Minesweeper.h"
+	<algorithm>
+	<ctime>
+	<iostream>
+
+1558172260 c:\users\tomas petrikas\desktop\programs\objektinis c++\projektas\minesweeper.h
+	<string>
+	<vector>
+
+1558172515 source:c:\users\tomas petrikas\desktop\programs\objektinis c++\projektas\demo.cpp
+	"Minesweeper.h"
+	<iostream>
+	<string>
+
